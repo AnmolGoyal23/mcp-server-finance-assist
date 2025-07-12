@@ -1,0 +1,11 @@
+spring:
+    application:
+      name : financialassistant
+
+server:
+  port: 8080
+
+#openai:
+#  api-key: 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
+#  model: gpt-3.5-turbo
+#  url: https://api.openai.com/v1/chat/completions
